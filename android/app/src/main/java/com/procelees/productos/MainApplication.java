@@ -1,4 +1,5 @@
-package com.productosapp;
+// package com.productosapp;
+package com.procelees.productos;
 
 import org.devio.rn.splashscreen.SplashScreenReactPackage;
 

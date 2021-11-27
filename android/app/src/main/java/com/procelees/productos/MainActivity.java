@@ -1,4 +1,5 @@
-package com.productosapp;
+// package com.productosapp;
+package com.procelees.productos;
 
 import android.os.Bundle;
 import com.facebook.react.ReactActivity;
